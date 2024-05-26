@@ -1,0 +1,10 @@
+0 bakso
+1 bebek_betutu
+2 gado_gado
+3 gudeg
+4 nasi_goreng
+5 pempek
+6 rawon
+7 rendang
+8 sate
+9 soto
